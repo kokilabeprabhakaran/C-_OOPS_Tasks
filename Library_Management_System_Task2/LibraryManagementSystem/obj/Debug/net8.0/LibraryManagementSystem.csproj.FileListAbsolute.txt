@@ -1,0 +1,14 @@
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll

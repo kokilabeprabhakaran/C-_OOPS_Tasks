@@ -1,0 +1,14 @@
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\bin\Debug\net8.0\AsyncReportGenerator.exe
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\bin\Debug\net8.0\AsyncReportGenerator.deps.json
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\bin\Debug\net8.0\AsyncReportGenerator.runtimeconfig.json
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\bin\Debug\net8.0\AsyncReportGenerator.dll
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\bin\Debug\net8.0\AsyncReportGenerator.pdb
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.AssemblyInfo.cs
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.dll
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\refint\AsyncReportGenerator.dll
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.pdb
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\AsyncReportGenerator.genruntimeconfig.cache
+C:\Visual Studio Code\Asyn_Report_Generator\AsyncReportGenerator\obj\Debug\net8.0\ref\AsyncReportGenerator.dll

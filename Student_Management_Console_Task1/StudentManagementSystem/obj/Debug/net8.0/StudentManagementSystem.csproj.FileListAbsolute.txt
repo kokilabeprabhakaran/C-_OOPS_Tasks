@@ -1,0 +1,14 @@
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Visual Studio Code\Student_Management_Console\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
