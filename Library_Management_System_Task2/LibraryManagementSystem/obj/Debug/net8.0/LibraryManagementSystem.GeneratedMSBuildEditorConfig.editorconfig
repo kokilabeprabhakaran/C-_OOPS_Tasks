@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagementSystem
-build_property.ProjectDir = C:\Visual Studio Code\Library_Management_System_Task2\LibraryManagementSystem\
+build_property.ProjectDir = C:\Visual Studio Code\C#_OOPS_Tasks\Library_Management_System_Task2\LibraryManagementSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

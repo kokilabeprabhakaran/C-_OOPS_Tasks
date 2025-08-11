@@ -8,8 +8,28 @@ namespace LibraryManagementSystem.Manager
         private List<User> users = new();
         private List<Book> books = new();
 
-        public void AddUser(User user) => users.Add(user);
-        public void AddBook(Book book) => books.Add(book);
+        public void AddUser(User user)
+        {
+            if (users.Any(u => u.Id == user.Id))
+            {
+                Console.WriteLine($"User with ID {user.Id} already exists.");
+                return;
+            }
+            users.Add(user);
+            Console.WriteLine("User added successfully.");
+        }
+
+        public void AddBook(Book book)
+        {
+            if (books.Any(b => b.BookId == book.BookId))
+            {
+                Console.WriteLine($"Book with ID {book.BookId} already exists.");
+                return;
+            }
+
+            books.Add(book);
+            Console.WriteLine("Book added successfully.");
+        }
 
         public void BorrowBook(int userId, int bookId)
         {

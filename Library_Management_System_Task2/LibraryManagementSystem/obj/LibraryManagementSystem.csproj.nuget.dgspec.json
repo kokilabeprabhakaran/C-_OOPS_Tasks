@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Code\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "C:\\Visual Studio Code\\C#_OOPS_Tasks\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Code\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "C:\\Visual Studio Code\\C#_OOPS_Tasks\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Visual Studio Code\\C#_OOPS_Tasks\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "C:\\Visual Studio Code\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "C:\\Visual Studio Code\\C#_OOPS_Tasks\\Library_Management_System_Task2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\kokila.prabha\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code\\Library_Management_System_Task2\\LibraryManagementSystem\\obj\\",
+        "outputPath": "C:\\Visual Studio Code\\C#_OOPS_Tasks\\Library_Management_System_Task2\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kokila.prabha\\AppData\\Roaming\\NuGet\\NuGet.Config"
