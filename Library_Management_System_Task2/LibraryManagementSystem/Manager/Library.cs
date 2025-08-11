@@ -31,18 +31,25 @@ namespace LibraryManagementSystem.Manager
             Console.WriteLine("Book added successfully.");
         }
 
+
         public void BorrowBook(int userId, int bookId)
         {
             var user = users.FirstOrDefault(u => u.Id == userId);
             var book = books.FirstOrDefault(b => b.BookId == bookId);
-            user?.BorrowBook(book!);
+            if (user != null && book != null)
+            {
+                user.BorrowBook(book);
+            }
         }
 
         public void ReturnBook(int userId, int bookId)
         {
             var user = users.FirstOrDefault(u => u.Id == userId);
             var book = books.FirstOrDefault(b => b.BookId == bookId);
-            user?.ReturnBook(book!);
+            if (user != null && book != null)
+            {
+                user.ReturnBook(book);
+            }
         }
 
         public List<Book> ListAvailableBooks() => books.Where(b => b.IsAvailable).ToList();
@@ -57,9 +64,12 @@ namespace LibraryManagementSystem.Manager
         {
             return books.GroupBy(b => b.Author);
         }
+        
+        public List<User> GetAllUsers()
+        {
+            return users;
+        }
 
-        public List<Book> FilterByAuthor(string author) => books.Where(b => b.Author.Contains(author)).ToList();
-        public List<Book> FilterByTitleKeyword(string keyword) => books.Where(b => b.Title.Contains(keyword)).ToList();
-        public List<Book> FilterByAvailability(bool isAvailable) => books.Where(b => b.IsAvailable == isAvailable).ToList();
+        
     }
 }

@@ -34,7 +34,8 @@ namespace LibraryManagementSystem
                 Console.WriteLine("7. Get Borrowed Books by User");
                 Console.WriteLine("8. Group Books by Author");
                 Console.WriteLine("9. Generate Report");
-                Console.WriteLine("10. Exit");
+                Console.WriteLine("10. Top 3 Users by Borrow Count");
+                Console.WriteLine("11. Exit");
                 Console.Write("Enter your choice: ");
 
                 var input = Console.ReadLine();
@@ -50,7 +51,7 @@ namespace LibraryManagementSystem
                         string type = Console.ReadLine()!;
                         User user = type.ToLower() == "faculty" ? new Faculty { Id = userId, Name = name } : new Student { Id = userId, Name = name };
                         library.AddUser(user);
-                        Console.WriteLine("User added successfully.");
+                    
                         break;
 
                     case "2":
@@ -62,7 +63,6 @@ namespace LibraryManagementSystem
                         Console.Write("Enter Author: ");
                         string author = Console.ReadLine()!;
                         library.AddBook(new Book { BookId = bookId, Title = title, Author = author });
-                        Console.WriteLine("Book added successfully.");
                         break;
 
                     case "3":
@@ -128,8 +128,15 @@ namespace LibraryManagementSystem
                         reportGenerator.GenerateReport(library);
                         Console.WriteLine("-------------------");
                         break;
-
+                    
                     case "10":
+                        Console.WriteLine("-------Top 3 Users by Borrow Count-------");
+                        var allUsers = library.GetAllUsers();
+                        reportGenerator.Top3UsersByBorrowCount(allUsers);
+                        Console.WriteLine("-------------------");
+                        break;
+
+                    case "11":
                         running = false;
                         Console.WriteLine("Exiting...");
                         break;
